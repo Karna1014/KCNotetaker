@@ -1,0 +1,23 @@
+{
+  "name": "kcnotetaker",
+  "version": "1.0.0",
+  "description": "A place to save thoughts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karna1014/KCNotetaker.git"
+  },
+  "author": "Karna Cutolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karna1014/KCNotetaker/issues"
+  },
+  "homepage": "https://github.com/Karna1014/KCNotetaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
