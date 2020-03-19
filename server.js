@@ -32,7 +32,7 @@ app.get("/api/notes", (req, res) => {
 
 //initial route to home page
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "/public/index.html"));
+  res.sendFile(path.join(__dirname, "/public/gitindex.html"));
 });
 
 //method to receive info
